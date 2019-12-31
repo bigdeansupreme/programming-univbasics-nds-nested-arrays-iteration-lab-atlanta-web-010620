@@ -12,7 +12,7 @@ def join_ingredients(src)
   i = 0
   
   while i < src.length do
-    element = 0
+    element = src[i]
     while element < src[i].
   
 end
