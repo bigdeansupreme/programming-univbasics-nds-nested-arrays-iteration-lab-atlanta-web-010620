@@ -22,7 +22,8 @@ def find_greater_pair(src)
   
   i = 0
   
-  while i < src.length
+  while i < src.length do
+    
   
 end
 
