@@ -23,7 +23,7 @@ def find_greater_pair(src)
   i = 0
   
   while i < src.length do
-    large_number << 
+    large_number << (src[i][0] > src[i][1] ? )
   
 end
 
