@@ -46,6 +46,5 @@ def total_even_pairs(src)
       sum += (src[i][0] + src[i][1])
     end
     i += 1
-  end
-
   sum
+end
