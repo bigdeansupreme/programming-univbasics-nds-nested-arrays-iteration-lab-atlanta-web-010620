@@ -12,8 +12,8 @@ def join_ingredients(src)
   i = 0
   
   while i < src.length do
-    element_index = 0
-    while element_index < src[i].
+    element = 0
+    while element < src[i].
   
 end
 
