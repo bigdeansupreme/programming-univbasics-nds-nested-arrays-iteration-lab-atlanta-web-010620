@@ -23,8 +23,11 @@ def find_greater_pair(src)
   i = 0
   
   while i < src.length do
-    large_number << (src[i][0] > src[i][1] ? )
+    large_number << (src[i][0] > src[i][1] ? src[i][0] : src[i][1])
+    i += 1
   
+end
+large_number
 end
 
 def total_even_pairs(src)
