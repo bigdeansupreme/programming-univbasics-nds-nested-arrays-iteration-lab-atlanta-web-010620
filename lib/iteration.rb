@@ -13,7 +13,7 @@ def join_ingredients(src)
   
   while i < src.length do
     element = src[i]
-  new_array << "I love #{element[0]} 
+  new_array << "I love #{element[0]} and #{element[1]} on my pizza
   
 end
 
