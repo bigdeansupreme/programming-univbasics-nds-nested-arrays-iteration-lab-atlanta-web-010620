@@ -20,7 +20,9 @@ def find_greater_pair(src)
   
   large_number = []
   
+  i = 0
   
+  while i < src.length
   
 end
 
